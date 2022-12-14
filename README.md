@@ -4,9 +4,9 @@
   <img alt=".tr domains list" src="https://user-images.githubusercontent.com/16024979/207469461-8eb4332a-d530-455f-9832-4bad74acf5b9.png">
 </picture>
 
-List of .tr domains.
+List of `.tr` domains. The number of domains currently in this repo is _`200.515`_.
 
-_[.tr](https://en.wikipedia.org/wiki/.tr) is the Internet country code top-level domain (ccTLD) for [Turkey](https://www.cia.gov/the-world-factbook/countries/turkey-turkiye/). [nic.tr](https://icannwiki.org/NIC.TR) is the only second-level domain name, other second-level domains are prohibited. For easier classification, only third-level domain names are given, such as .com.tr, .gov.tr._ In this case it is easier to use the subdomain enumeration tools.
+> _[.tr](https://en.wikipedia.org/wiki/.tr) is the Internet country code top-level domain (ccTLD) for [Turkey](https://www.cia.gov/the-world-factbook/countries/turkey-turkiye/). Second-level domains are prohibited by current policy. [nic.tr](https://icannwiki.org/NIC.TR) is the only second-level domain name. For easier classification, only third-level domain names are given, such as .com.tr, .gov.tr._
 
 ## Gathering Data
 
