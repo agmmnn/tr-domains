@@ -10,7 +10,7 @@ _[.tr](https://en.wikipedia.org/wiki/.tr) is the Internet country code top-level
 
 ## Gathering Data
 
-### Enumeration Pipeline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agmmnn/tr-domains/blob/master/tr-domain-enumeration-pipeline.ipynb)
+### Enumeration Pipeline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agmmnn/tr-domains/blob/master/tr-domains-pipeline.ipynb)
 
 1. Domain enumeration with [OWASP/Amass](https://github.com/OWASP/Amass) and [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder)
 1. Merge lists, clean non-root domains
