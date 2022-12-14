@@ -26,17 +26,17 @@ _[.tr](https://en.wikipedia.org/wiki/.tr) is the Internet country code top-level
 
 ### Official Related or Document Required
 
-| Domain      | Reserved for                                                                               | Full Output                       | Only Urls                       |
-| ----------- | ------------------------------------------------------------------------------------------ | --------------------------------- | ------------------------------- |
-| `gov.tr`    | the Government of Turkey and state institutions/organizations                              | [.json](/data_docreq/gov.tr.json) | [.txt](/data_docreq/gov.tr.txt) |
-| `bel.tr`    | provincial, district, and town municipal organizations and governments                     | [.json](/data_docreq/bel.tr.json) | [.txt](/data_docreq/bel.tr.txt) |
-| `pol.tr`    | the General Directorate of Security and police                                             | [.json](/data_docreq/pol.tr.json) | [.txt](/data_docreq/pol.tr.txt) |
-| `edu.tr`    | higher education institutions approved by the Council of Higher Education                  | [.json](/data_docreq/edu.tr.json) | [.txt](/data_docreq/edu.tr.txt) |
-| `k12.tr`    | schools approved by the Ministry of National Education                                     | [.json](/data_docreq/k12.tr.json) | [.txt](/data_docreq/k12.tr.txt) |
-| `av.tr`     | freelance lawyers, law firms and attorney partnerships                                     | [.json](/data_docreq/av.tr.json)  | [.txt](/data_docreq/av.tr.txt)  |
-| `dr.tr`     | medical doctors, medical partnerships, hospitals, and healthcare services                  | [.json](/data_docreq/dr.tr.json)  | [.txt](/data_docreq/dr.tr.txt)  |
-| `tsk.tr`    | the Turkish Armed Forces                                                                   | -                                 | -                               |
-| `gov.ct.tr` | the Government of Turkish Republic of Northern Cyprus and state institutions/organizations | [.json](/data_docreq/gov.tr.json) | [.txt](/data_docreq/gov.tr.txt) |
+| Domain      | Reserved for                                                                               | Full Output                          | Only Urls                          |
+| ----------- | ------------------------------------------------------------------------------------------ | ------------------------------------ | ---------------------------------- |
+| `gov.tr`    | the Government of Turkey and state institutions/organizations                              | [.json](/data_docreq/gov.tr.json)    | [.txt](/data_docreq/gov.tr.txt)    |
+| `bel.tr`    | provincial, district, and town municipal organizations and governments                     | [.json](/data_docreq/bel.tr.json)    | [.txt](/data_docreq/bel.tr.txt)    |
+| `pol.tr`    | the General Directorate of Security and police                                             | [.json](/data_docreq/pol.tr.json)    | [.txt](/data_docreq/pol.tr.txt)    |
+| `edu.tr`    | higher education institutions approved by the Council of Higher Education                  | [.json](/data_docreq/edu.tr.json)    | [.txt](/data_docreq/edu.tr.txt)    |
+| `k12.tr`    | schools approved by the Ministry of National Education                                     | [.json](/data_docreq/k12.tr.json)    | [.txt](/data_docreq/k12.tr.txt)    |
+| `av.tr`     | freelance lawyers, law firms and attorney partnerships                                     | [.json](/data_docreq/av.tr.json)     | [.txt](/data_docreq/av.tr.txt)     |
+| `dr.tr`     | medical doctors, medical partnerships, hospitals, and healthcare services                  | [.json](/data_docreq/dr.tr.json)     | [.txt](/data_docreq/dr.tr.txt)     |
+| `tsk.tr`    | the Turkish Armed Forces                                                                   | -                                    | -                                  |
+| `gov.ct.tr` | the Government of Turkish Republic of Northern Cyprus and state institutions/organizations | [.json](/data_docreq/gov.ct.tr.json) | [.txt](/data_docreq/gov.ct.tr.txt) |
 
 ### No Document Required
 
