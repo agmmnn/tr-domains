@@ -42,7 +42,7 @@ _[.tr](https://en.wikipedia.org/wiki/.tr) is the Internet country code top-level
 
 | Domain    | Definition                                                                               | Full Output                       | Only Urls                       |
 | --------- | ---------------------------------------------------------------------------------------- | --------------------------------- | ------------------------------- |
-| `com.tr`  |                                                                                          | [.json](/data_nodoc/com.tr.json)  | [.txt](/data_nodoc/com.tr.txt)  |
+| `com.tr`  | commercial entities                                                                      | [.json](/data_nodoc/com.tr.json)  | [.txt](/data_nodoc/com.tr.txt)  |
 | `net.tr`  | network operators/providers, as well as internet-related access services                 | [.json](/data_nodoc/net.tr.json)  | [.txt](/data_nodoc/net.tr.txt)  |
 | `org.tr`  | nonprofit entities such as foundations, associations, and non-governmental organizations | [.json](/data_nodoc/org.tr.json)  | [.txt](/data_nodoc/org.tr.txt)  |
 | `biz.tr`  | commercial entities                                                                      | [.json](/data_nodoc/biz.tr.json)  | [.txt](/data_nodoc/biz.tr.txt)  |
