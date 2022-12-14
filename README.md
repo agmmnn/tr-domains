@@ -26,39 +26,42 @@ List of `.tr` domains. The number of domains currently in this repo is _`200.515
 
 ### Official Related or Document Required
 
-| Domain      | Reserved for                                                                               | Full Output                          | Only Urls                          |
-| ----------- | ------------------------------------------------------------------------------------------ | ------------------------------------ | ---------------------------------- |
-| `gov.tr`    | the Government of Turkey and state institutions/organizations                              | [.json](/data_docreq/gov.tr.json)    | [.txt](/data_docreq/gov.tr.txt)    |
-| `bel.tr`    | provincial, district, and town municipal organizations and governments                     | [.json](/data_docreq/bel.tr.json)    | [.txt](/data_docreq/bel.tr.txt)    |
-| `pol.tr`    | the General Directorate of Security and police                                             | [.json](/data_docreq/pol.tr.json)    | [.txt](/data_docreq/pol.tr.txt)    |
-| `edu.tr`    | higher education institutions approved by the Council of Higher Education                  | [.json](/data_docreq/edu.tr.json)    | [.txt](/data_docreq/edu.tr.txt)    |
-| `k12.tr`    | schools approved by the Ministry of National Education                                     | [.json](/data_docreq/k12.tr.json)    | [.txt](/data_docreq/k12.tr.txt)    |
-| `av.tr`     | freelance lawyers, law firms and attorney partnerships                                     | [.json](/data_docreq/av.tr.json)     | [.txt](/data_docreq/av.tr.txt)     |
-| `dr.tr`     | medical doctors, medical partnerships, hospitals, and healthcare services                  | [.json](/data_docreq/dr.tr.json)     | [.txt](/data_docreq/dr.tr.txt)     |
-| `tsk.tr`    | the Turkish Armed Forces                                                                   | -                                    | -                                  |
-| `gov.ct.tr` | the Government of Turkish Republic of Northern Cyprus and state institutions/organizations | [.json](/data_docreq/gov.ct.tr.json) | [.txt](/data_docreq/gov.ct.tr.txt) |
+| Domain      | Reserved for                                                                               | Full Output                            | Only Urls                            | Count    |
+| ----------- | ------------------------------------------------------------------------------------------ | -------------------------------------- | ------------------------------------ | -------- |
+| `gov.tr`    | the Government of Turkey and state institutions/organizations                              | [`.json`](/data_docreq/gov.tr.json)    | [`.txt`](/data_docreq/gov.tr.txt)    | _`2582`_ |
+| `bel.tr`    | provincial, district, and town municipal organizations and governments                     | [`.json`](/data_docreq/bel.tr.json)    | [`.txt`](/data_docreq/bel.tr.txt)    | _`1231`_ |
+| `pol.tr`    | the General Directorate of Security and police                                             | [`.json`](/data_docreq/pol.tr.json)    | [`.txt`](/data_docreq/pol.tr.txt)    | _`165`_  |
+| `edu.tr`    | higher education institutions approved by the Council of Higher Education                  | [`.json`](/data_docreq/edu.tr.json)    | [`.txt`](/data_docreq/edu.tr.txt)    | _`318`_  |
+| `k12.tr`    | schools approved by the Ministry of National Education                                     | [`.json`](/data_docreq/k12.tr.json)    | [`.txt`](/data_docreq/k12.tr.txt)    | _`927`_  |
+| `av.tr`     | freelance lawyers, law firms and attorney partnerships                                     | [`.json`](/data_docreq/av.tr.json)     | [`.txt`](/data_docreq/av.tr.txt)     | _`4116`_ |
+| `dr.tr`     | medical doctors, medical partnerships, hospitals, and healthcare services                  | [`.json`](/data_docreq/dr.tr.json)     | [`.txt`](/data_docreq/dr.tr.txt)     | _`41`_   |
+| `tsk.tr`    | the Turkish Armed Forces                                                                   | -                                      | -                                    | -        |
+| `gov.ct.tr` | the Government of Turkish Republic of Northern Cyprus and state institutions/organizations | [`.json`](/data_docreq/gov.ct.tr.json) | [`.txt`](/data_docreq/gov.ct.tr.txt) | _`181`_  |
+|             |                                                                                            |                                        |                                      | _`9561`_ |
 
 ### No Document Required
 
-| Domain    | Definition                                                                               | Full Output                       | Only Urls                       |
-| --------- | ---------------------------------------------------------------------------------------- | --------------------------------- | ------------------------------- |
-| `com.tr`  | commercial entities                                                                      | [.json](/data_nodoc/com.tr.json)  | [.txt](/data_nodoc/com.tr.txt)  |
-| `net.tr`  | network operators/providers, as well as internet-related access services                 | [.json](/data_nodoc/net.tr.json)  | [.txt](/data_nodoc/net.tr.txt)  |
-| `org.tr`  | nonprofit entities such as foundations, associations, and non-governmental organizations | [.json](/data_nodoc/org.tr.json)  | [.txt](/data_nodoc/org.tr.txt)  |
-| `biz.tr`  | commercial entities                                                                      | [.json](/data_nodoc/biz.tr.json)  | [.txt](/data_nodoc/biz.tr.txt)  |
-| `info.tr` | informational websites                                                                   | [.json](/data_nodoc/info.tr.json) | [.txt](/data_nodoc/info.tr.txt) |
-| `tv.tr`   | entities in the television industry                                                      | [.json](/data_nodoc/tv.tr.json)   | [.txt](/data_nodoc/tv.tr.txt)   |
-| `gen.tr`  | general use                                                                              | [.json](/data_nodoc/gen.tr.json)  | [.txt](/data_nodoc/gen.tr.txt)  |
-| `web.tr`  | general use                                                                              | [.json](/data_nodoc/web.tr.json)  | [.txt](/data_nodoc/web.tr.txt)  |
-| `name.tr` | individual/personal use                                                                  | [.json](/data_nodoc/name.tr.json) | [.txt](/data_nodoc/name.tr.txt) |
-| `bbs.tr`  | entities providing BBS services                                                          | [.json](/data_nodoc/bbs.tr.json)  | [.txt](/data_nodoc/bbs.tr.txt)  |
+| Domain    | Definition                                                                               | Full Output                         | Only Urls                         | Count      |
+| --------- | ---------------------------------------------------------------------------------------- | ----------------------------------- | --------------------------------- | ---------- |
+| `com.tr`  | commercial entities                                                                      | [`.json`](/data_nodoc/com.tr.json)  | [`.txt`](/data_nodoc/com.tr.txt)  | _`169798`_ |
+| `net.tr`  | network operators/providers, as well as internet-related access services                 | [`.json`](/data_nodoc/net.tr.json)  | [`.txt`](/data_nodoc/net.tr.txt)  | _`1600`_   |
+| `org.tr`  | nonprofit entities such as foundations, associations, and non-governmental organizations | [`.json`](/data_nodoc/org.tr.json)  | [`.txt`](/data_nodoc/org.tr.txt)  | _`7172`_   |
+| `biz.tr`  | commercial entities                                                                      | [`.json`](/data_nodoc/biz.tr.json)  | [`.txt`](/data_nodoc/biz.tr.txt)  | _`911`_    |
+| `info.tr` | informational websites                                                                   | [`.json`](/data_nodoc/info.tr.json) | [`.txt`](/data_nodoc/info.tr.txt) | _`653`_    |
+| `tv.tr`   | entities in the television industry                                                      | [`.json`](/data_nodoc/tv.tr.json)   | [`.txt`](/data_nodoc/tv.tr.txt)   | _`238`_    |
+| `gen.tr`  | general use                                                                              | [`.json`](/data_nodoc/gen.tr.json)  | [`.txt`](/data_nodoc/gen.tr.txt)  | _`5432`_   |
+| `web.tr`  | general use                                                                              | [`.json`](/data_nodoc/web.tr.json)  | [`.txt`](/data_nodoc/web.tr.txt)  | _`2631`_   |
+| `name.tr` | individual/personal use                                                                  | [`.json`](/data_nodoc/name.tr.json) | [`.txt`](/data_nodoc/name.tr.txt) | _`1039`_   |
+| `bbs.tr`  | entities providing BBS services                                                          | [`.json`](/data_nodoc/bbs.tr.json)  | [`.txt`](/data_nodoc/bbs.tr.txt)  | _`66`_     |
+|           |                                                                                          |                                     |                                   | _`189540`_ |
 
 ### Other Turkish Domains
 
-| Domain                                         | Definition                                                                                                                                                         | Full Output                        | Only Urls                        |
-| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------- | -------------------------------- |
-| [`.istanbul`](https://icannwiki.org/.istanbul) | a community-based sponsored top-level domain by [Istanbul Metropolitan Municipality](https://www.ibb.istanbul/en) -[wiki](https://en.wikipedia.org/wiki/.istanbul) | [.json](/data_other/istanbul.json) | [.txt](/data_other/istanbul.txt) |
-| [`.ist`](https://icannwiki.org/.ist)           | a community-based sponsored top-level domain by [Istanbul Metropolitan Municipality](https://www.ibb.istanbul/en) -[wiki](https://en.wikipedia.org/wiki/.istanbul) | [.json](/data_other/ist.json)      | [.txt](/data_other/ist.txt)      |
+| Domain                                         | Definition                                                                                                                                                         | Full Output                          | Only Urls                          | Count    |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | ---------------------------------- | -------- |
+| [`.istanbul`](https://icannwiki.org/.istanbul) | a community-based sponsored top-level domain by [Istanbul Metropolitan Municipality](https://www.ibb.istanbul/en) -[wiki](https://en.wikipedia.org/wiki/.istanbul) | [`.json`](/data_other/istanbul.json) | [`.txt`](/data_other/istanbul.txt) | _`498`_  |
+| [`.ist`](https://icannwiki.org/.ist)           | a community-based sponsored top-level domain by [Istanbul Metropolitan Municipality](https://www.ibb.istanbul/en) -[wiki](https://en.wikipedia.org/wiki/.istanbul) | [`.json`](/data_other/ist.json)      | [`.txt`](/data_other/ist.txt)      | _`916`_  |
+|                                                |                                                                                                                                                                    |                                      |                                    | _`1414`_ |
 
 ## Useful
 
