@@ -76,6 +76,7 @@ _[.tr](https://en.wikipedia.org/wiki/.tr) is the Internet country code top-level
 
 - [cisagov/dotgov-data](https://github.com/cisagov/dotgov-data) - Official list of .gov domains.
 - [robbi5/german-gov-domains](https://github.com/robbi5/german-gov-domains) - An incomplete listing of german government domains.
+- [anroots/ee-domains](https://github.com/anroots/ee-domains) - List of Estonian top-level internet domains.
 
 ## Contributing
 
