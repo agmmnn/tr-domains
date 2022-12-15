@@ -69,8 +69,9 @@ List of `.tr` domains. The number of domains currently in this repo is _`200.515
 
 ### Wikidata Queries
 
-- Metropolitan municipalities in Turkey and their websites: [query](https://query.wikidata.org/#SELECT%20%3Fitem%20%3FitemLabel%20%3Fwebsite%0AWHERE%20%0A%7B%0A%20%20%3Fitem%20wdt%3AP31%2Fwdt%3AP279%2a%20wd%3AQ2716259.%0A%20%20OPTIONAL%7B%3Fitem%20wdt%3AP856%20%20%3Fwebsite%20.%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Ctr%22.%20%7D%0A%7D%0AORDER%20BY%20%3Fitem)
-- All museums in Turkey and their websites: [query](https://query.wikidata.org/#%23t%C3%BCrkiyedeki%28Q43%29%20m%C3%BCzeler%28Q33506%29%0ASELECT%20DISTINCT%20%3Fitem%20%3Fname%20%3Fweb%20%3Fcoord%20%3Flat%20%3Flon%0AWHERE%0A%7B%0A%20hint%3AQuery%20hint%3Aoptimizer%20%22None%22%20.%0A%20%3Fitem%20wdt%3AP131%2a%20wd%3AQ43%20.%0A%20%3Fitem%20wdt%3AP31%2Fwdt%3AP279%2a%20wd%3AQ33506%20.%0A%20%3Fitem%20wdt%3AP625%20%3Fcoord%20.%0A%20%3Fitem%20p%3AP625%20%3Fcoordinate%20.%0A%20%3Fcoordinate%20psv%3AP625%20%3Fcoordinate_node%20.%0A%20%3Fcoordinate_node%20wikibase%3AgeoLatitude%20%3Flat%20.%0A%20%3Fcoordinate_node%20wikibase%3AgeoLongitude%20%3Flon%20.%0A%20OPTIONAL%7B%3Fitem%20wdt%3AP856%20%20%3Fweb%20.%7D%0A%20SERVICE%20wikibase%3Alabel%20%7B%0A%20bd%3AserviceParam%20wikibase%3Alanguage%20%22tr%22%20.%0A%20%3Fitem%20rdfs%3Alabel%20%3Fname%0A%20%7D%0A%7D%0AORDER%20BY%20ASC%20%28%3Fname%29)
+- Metropolitan municipalities in Turkey with websites: [query](https://query.wikidata.org/#SELECT%20%3Fitem%20%3FitemLabel%20%3Fwebsite%0AWHERE%20%0A%7B%0A%20%20%3Fitem%20wdt%3AP31%2Fwdt%3AP279%2a%20wd%3AQ2716259.%0A%20%20OPTIONAL%7B%3Fitem%20wdt%3AP856%20%20%3Fwebsite%20.%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Ctr%22.%20%7D%0A%7D%0AORDER%20BY%20%3Fitem)
+- All museums in Turkey with websites, coordinates: [query](https://query.wikidata.org/#%23t%C3%BCrkiyedeki%28Q43%29%20m%C3%BCzeler%28Q33506%29%0ASELECT%20DISTINCT%20%3Fitem%20%3Fname%20%3Fweb%20%3Fcoord%20%3Flat%20%3Flon%0AWHERE%0A%7B%0A%20hint%3AQuery%20hint%3Aoptimizer%20%22None%22%20.%0A%20%3Fitem%20wdt%3AP131%2a%20wd%3AQ43%20.%0A%20%3Fitem%20wdt%3AP31%2Fwdt%3AP279%2a%20wd%3AQ33506%20.%0A%20%3Fitem%20wdt%3AP625%20%3Fcoord%20.%0A%20%3Fitem%20p%3AP625%20%3Fcoordinate%20.%0A%20%3Fcoordinate%20psv%3AP625%20%3Fcoordinate_node%20.%0A%20%3Fcoordinate_node%20wikibase%3AgeoLatitude%20%3Flat%20.%0A%20%3Fcoordinate_node%20wikibase%3AgeoLongitude%20%3Flon%20.%0A%20OPTIONAL%7B%3Fitem%20wdt%3AP856%20%20%3Fweb%20.%7D%0A%20SERVICE%20wikibase%3Alabel%20%7B%0A%20bd%3AserviceParam%20wikibase%3Alanguage%20%22tr%22%20.%0A%20%3Fitem%20rdfs%3Alabel%20%3Fname%0A%20%7D%0A%7D%0AORDER%20BY%20ASC%20%28%3Fname%29)
+- All universities in Turkey with websites, coordinates: [query](https://query.wikidata.org/#%23t%C3%BCrkiye%28Q43%29%20%C3%BCniversite%28Q33506%29%0ASELECT%20DISTINCT%20%3Fitem%20%3Fname%20%3Fweb%20%3Fcoord%0AWHERE%0A%7B%0A%20hint%3AQuery%20hint%3Aoptimizer%20%22None%22%20.%0A%20%3Fitem%20wdt%3AP131%2a%20wd%3AQ43%20.%0A%20%3Fitem%20wdt%3AP31%2Fwdt%3AP279%2a%20wd%3AQ3918%20.%0A%20OPTIONAL%7B%3Fitem%20wdt%3AP625%20%3Fcoord%20.%7D%0A%20OPTIONAL%7B%3Fitem%20wdt%3AP856%20%20%3Fweb%20.%7D%0A%20SERVICE%20wikibase%3Alabel%20%7B%0A%20bd%3AserviceParam%20wikibase%3Alanguage%20%22tr%22%20.%0A%20%3Fitem%20rdfs%3Alabel%20%3Fname%0A%20%7D%0A%7D)
 
 ### Censys Search
 
@@ -82,6 +83,10 @@ List of `.tr` domains. The number of domains currently in this repo is _`200.515
 - [cisagov/dotgov-data](https://github.com/cisagov/dotgov-data) - Official list of .gov domains.
 - [robbi5/german-gov-domains](https://github.com/robbi5/german-gov-domains) - An incomplete listing of german government domains.
 - [anroots/ee-domains](https://github.com/anroots/ee-domains) - List of Estonian top-level internet domains.
+
+### Others
+
+- [Hipo/University Domains List API (filter:turkey)](http://universities.hipolabs.com/search?country=turkey) ([repo](https://github.com/Hipo/university-domains-list))
 
 ## Contributing
 
