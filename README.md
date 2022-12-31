@@ -84,6 +84,7 @@ List of `.tr` domains. The number of domains currently in this repo is _`200.515
 - [robbi5/german-gov-domains](https://github.com/robbi5/german-gov-domains) - An incomplete listing of german government domains.
 - [anroots/ee-domains](https://github.com/anroots/ee-domains) - List of Estonian top-level internet domains.
 - [cygenta/top10million](https://github.com/cygenta/top10million) - A repository of the 10 million live most popular websites.
+- [zakird/crux-top-lists](https://github.com/zakird/crux-top-lists) - Cached Chrome top million websites.
 
 ### Others
 
