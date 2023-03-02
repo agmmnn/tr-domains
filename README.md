@@ -35,9 +35,9 @@ List of `.tr` domains. The number of domains currently in this repo is _`200.515
 | `k12.tr`    | schools approved by the Ministry of National Education                                     | [`.json`](/data_docreq/k12.tr.json)    | [`.txt`](/data_docreq/k12.tr.txt)    | _`927`_  |
 | `av.tr`     | freelance lawyers, law firms and attorney partnerships                                     | [`.json`](/data_docreq/av.tr.json)     | [`.txt`](/data_docreq/av.tr.txt)     | _`4116`_ |
 | `dr.tr`     | medical doctors, medical partnerships, hospitals, and healthcare services                  | [`.json`](/data_docreq/dr.tr.json)     | [`.txt`](/data_docreq/dr.tr.txt)     | _`41`_   |
-| `tsk.tr`\*  | the Turkish Armed Forces                                                                   | -                                      | -                                    | -        |
+| `tsk.tr`\*  | the Turkish Armed Forces                                                                   | -                                      | -                                    | _`16`_   |
 | `gov.ct.tr` | the Government of Turkish Republic of Northern Cyprus and state institutions/organizations | [`.json`](/data_docreq/gov.ct.tr.json) | [`.txt`](/data_docreq/gov.ct.tr.txt) | _`181`_  |
-|             |                                                                                            |                                        |                                      | _`9561`_ |
+|             |                                                                                            |                                        |                                      | _`9577`_ |
 
 > \*have to manually select webpages and subdomains, so it is not included.
 
@@ -64,6 +64,8 @@ List of `.tr` domains. The number of domains currently in this repo is _`200.515
 | [`.istanbul`](https://icannwiki.org/.istanbul) | a community-based sponsored top-level domain by [Istanbul Metropolitan Municipality](https://www.ibb.istanbul/en) -[wiki](https://en.wikipedia.org/wiki/.istanbul) | [`.json`](/data_other/istanbul.json) | [`.txt`](/data_other/istanbul.txt) | _`498`_  |
 | [`.ist`](https://icannwiki.org/.ist)           | a community-based sponsored top-level domain by [Istanbul Metropolitan Municipality](https://www.ibb.istanbul/en) -[wiki](https://en.wikipedia.org/wiki/.istanbul) | [`.json`](/data_other/ist.json)      | [`.txt`](/data_other/ist.txt)      | _`916`_  |
 |                                                |                                                                                                                                                                    |                                      |                                    | _`1414`_ |
+
+_Total: `200.531`_
 
 ## Useful
 
