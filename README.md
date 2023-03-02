@@ -4,7 +4,7 @@
   <img alt=".tr domains list" src="https://user-images.githubusercontent.com/16024979/207469461-8eb4332a-d530-455f-9832-4bad74acf5b9.png">
 </picture>
 
-List of `.tr` domains. The number of domains currently in this repo is _`200.515`_.
+List of `.tr` domains. The number of domains currently in this repo is _`200k`_.
 
 > _[.tr](https://en.wikipedia.org/wiki/.tr) is the Internet country code top-level domain (ccTLD) for [Turkey](https://www.cia.gov/the-world-factbook/countries/turkey-turkiye/). Second-level domains are prohibited by current policy. [nic.tr](https://icannwiki.org/NIC.TR) is the only second-level domain name. For easier classification, only third-level domain names are given, such as .com.tr, .gov.tr._
 
@@ -35,11 +35,9 @@ List of `.tr` domains. The number of domains currently in this repo is _`200.515
 | `k12.tr`    | schools approved by the Ministry of National Education                                     | [`.json`](/data_docreq/k12.tr.json)    | [`.txt`](/data_docreq/k12.tr.txt)    | _`927`_  |
 | `av.tr`     | freelance lawyers, law firms and attorney partnerships                                     | [`.json`](/data_docreq/av.tr.json)     | [`.txt`](/data_docreq/av.tr.txt)     | _`4116`_ |
 | `dr.tr`     | medical doctors, medical partnerships, hospitals, and healthcare services                  | [`.json`](/data_docreq/dr.tr.json)     | [`.txt`](/data_docreq/dr.tr.txt)     | _`41`_   |
-| `tsk.tr`\*  | the Turkish Armed Forces                                                                   | -                                      | -                                    | _`16`_   |
+| `tsk.tr`    | the Turkish Armed Forces                                                                   | [`.json`](/data_docreq/tsk.tr.json)    | [`.txt`](/data_docreq/tsk.tr.txt)    | _`16`_   |
 | `gov.ct.tr` | the Government of Turkish Republic of Northern Cyprus and state institutions/organizations | [`.json`](/data_docreq/gov.ct.tr.json) | [`.txt`](/data_docreq/gov.ct.tr.txt) | _`181`_  |
 |             |                                                                                            |                                        |                                      | _`9577`_ |
-
-> \*have to manually select webpages and subdomains, so it is not included.
 
 ### No Document Required
 
